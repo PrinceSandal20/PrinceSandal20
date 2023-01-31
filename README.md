@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)](https://princesandal20.io)
+[![MasterHead](https://blog.bydrec.com/hubfs/What%20Skills%20Should%20I%20Look%20for%20In%20An%20Application%20Software%20Developer_.jpg)](https://princesandal20.io)
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Full Stack App Developer and Backend Developer Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
