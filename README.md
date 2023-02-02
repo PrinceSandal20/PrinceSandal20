@@ -1,7 +1,7 @@
 [![MasterHead](https://blog.bydrec.com/hubfs/What%20Skills%20Should%20I%20Look%20for%20In%20An%20Application%20Software%20Developer_.jpg)](https://princesandal20.io)
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Full Stack App Developer and Backend Developer Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZFZm6QPXdhVtW_6Gcvlm8V3_nNd0k905Ww&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesandal20&label=Profile%20views&color=0e75b6&style=flat" alt="princesandal20" /> </p>
 
